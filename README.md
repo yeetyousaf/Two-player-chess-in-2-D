@@ -1,4 +1,4 @@
-#**2 Player Chess**
+# **2 Player Chess**
 This project is a simple implementation of a Chess Game using C++ and the Qt Creator framework. The game provides a graphical user interface for players to enjoy a classic game of chess.
 
 Table of Contents
