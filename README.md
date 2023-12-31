@@ -7,36 +7,30 @@ Chess game made in C++ with QT Creator.
 * User-friendly graphical interface.
 * Legal move validation.
 * Basic chess rules enforcement.
+* Display of legal moves.
+* Indicating when a king is in check.
 
-Prerequisites
+## **Prerequisites**
 
 Before you begin, ensure you have met the following requirements:
 
-C++ compiler (e.g., GCC, Clang).
+* C++ compiler (e.g., GCC, Clang).
+* Qt Creator installed (version 6.61).
 
-Qt Creator installed (version 6.61).
+## **Installation**
 
-Installation
+* Clone the repository to your local machine.
+* Copy code.
+* Open the project in Qt Creator.
+* Build the project using the Qt Creator build tools.
 
-Clone the repository to your local machine.
+## **Usage**
 
-Copy code.
+* Launch the Chess Game executable.
+* Follow the on-screen instructions to start a new game.
+* Make your moves by clicking on the chess pieces and and then clicking on the box you want to move it to.
 
-Open the project in Qt Creator.
-
-Build the project using the Qt Creator build tools.
-
-Usage
-
-Launch the Chess Game executable.
-
-Follow the on-screen instructions to start a new game.
-
-Make your moves by clicking on the chess pieces and dragging them to the desired positions.
-
-Enjoy playing!
-
-Contributing
+## **Contributing**
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
