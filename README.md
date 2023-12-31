@@ -30,6 +30,9 @@ Before you begin, ensure you have met the following requirements:
 * Follow the on-screen instructions to start a new game.
 * Make your moves by clicking on the chess pieces and and then clicking on the box you want to move it to.
 
+## **Screenshots**
+
+
 ## **Contributing**
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
